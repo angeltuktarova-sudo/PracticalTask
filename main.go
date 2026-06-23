@@ -16,7 +16,7 @@ var commands = `
 4 - Выйти из программы
 `
 
-func task2() {
+func main() {
 	const size = 512
 	empls := [size]*Employee{}
 	for {
